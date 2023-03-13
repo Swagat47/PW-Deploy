@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Swagat47/PlacementWebApp.git"
+    "url": "git+https://github.com/Swagat47/PWDeploy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Swagat47/PlacementWebApp/issues"
+    "url": "https://github.com/Swagat47/PWDeploy/issues"
   },
-  "homepage": "https://github.com/Swagat47/PlacementWebApp#readme",
+  "homepage": "https://github.com/Swagat47/PWDeploy#readme",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "bcrypt": "^5.0.1",
